@@ -26,7 +26,8 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/trade-opportunities-api.git
+git clone https://github.com/priyanshur0410/appscrib_assignment
+
 cd trade-opportunities-api
 Create virtual environment
 
